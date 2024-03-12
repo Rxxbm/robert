@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #BBAA99;
+    color: #7711CC;
+}
+#menu{
+        padding: 10px;
+}
+ul{
+    padding: 10px;
+}
+li{
+
+    padding: 10px;
+}
